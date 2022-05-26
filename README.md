@@ -9,7 +9,7 @@
 - 😄 Pronouns: He/Him
 
  [![LinkedIn- @Aryank ](https://img.shields.io/badge/-Aryank-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aryank-upadhyay-6311641b9/)](https://www.linkedin.com/in/aryank-upadhyay-6311641b9/)
-[![GitHub AryankUpadhyay](https://img.shields.io/github/followers/AryankUadhyay?label=follow&style=social)](https://github.com/AryankUpadhyay)
+[![GitHub AryankUpadhyay](https://img.shields.io/github/followers/AryankUpadhyay?label=follow&style=social)](https://github.com/AryankUadhyay)
 <br/> 
 ![Profile views](https://gpvc.arturio.dev/AryankUpadhyay)  
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryankupadhyay&label=Profile views&color=008000&style=flat" alt="aryankupadhyay" /> </p> -->
