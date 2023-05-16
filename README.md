@@ -40,7 +40,7 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=AryankUpadhyay&&show_icons=true&title_color=fffff9&icon_color=ffffff&text_color=088000&bg_color=191919">
+ <img src="https://github-readme-stats.vercel.app/api?username=AryankUpadhyay&&show_icons=true&title_color=fffff9&icon_color=ffffff&text_color=088000&bg_color=191919">
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryankupadhyay&show_icons=true&locale=en&layout=compact" alt="aryankupadhyay" /></p> -->
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryankupadhyay&show_icons=true&locale=en" alt="aryankupadhyay" /></p> -->
