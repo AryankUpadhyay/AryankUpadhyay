@@ -1,12 +1,10 @@
 ### Hola, I'm Aryank Upadhyay 👋
 
 
-- 🔭 I’m currently working on E-commerce App
-- 🌱 I’m currently learning Android Devlopment and Machine Learning
-- 🤔 I’m looking for help with Machine Learning
-- 💬 Ask me about C++, Java, Python, Kotlin, Android Devlopment, DSA, Competitive Programming.
-- 📫 How to reach me:  📧[LinkedIn- @Aryank ](https://www.linkedin.com/in/aryank-upadhyay-6311641b9/) , 📧[Mail](mailto:iamaryankupadhyay@gmailcom)
-- 😄 Pronouns: He/Him
+- 🔭 I’m currently building on a social media platform. 
+- 🤔 I’m looking for individuals who have problem-solving skills and a willingness to solve real-world problems.
+- 💬 Connect with me on LinkedIn and Twitter. 
+- 📫 How to reach me:  📧[LinkedIn- @Aryank ](https://www.linkedin.com/in/aryank-upadhyay-6311641b9/) , 📧[Mail](mailto:iamaryankupadhyay@gmailcom)  📧[Twitter](https://x.com/UpadhyayAryank)
 
  [![LinkedIn- @Aryank ](https://img.shields.io/badge/-Aryank-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aryank-upadhyay-6311641b9/)](https://www.linkedin.com/in/aryank-upadhyay-6311641b9/)
 [![GitHub AryankUpadhyay](https://img.shields.io/github/followers/AryankUpadhyay?label=follow&style=social)](https://github.com/AryankUadhyay)
@@ -15,14 +13,10 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryankupadhyay" alt="aryankupadhyay" /></a> </p> -->
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AryankUpadhyay)  
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@aryank_786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@aryank_786" height="30" width="40" /></a>
+<a href="https://twitter.com/@UpadhyayAryank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@UpadhyayAryank" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aryank-upadhyay-6311641b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryankupadhyay" height="30" width="40" /></a>
 <a href="https://instagram.com/aryankupadhyay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryankupadhyay" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/aryank3024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aryank3024" height="30" width="40" /></a>
@@ -43,10 +37,9 @@
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryankupadhyay&show_icons=true&locale=en" alt="aryankupadhyay" /></p> -->
 <!-- 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryankupadhyay&" alt="aryankupadhyay" /></p> -->
-<a href="https://github.com/AryankUpadhyay">
+<!-- <a href="https://github.com/AryankUpadhyay">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryankUpadhyay&theme=gotham" />
 </a>
 <div align="center">
   <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AryankUpadhyay&theme=gotham" alt="mayankesh239" /></p>
 </div> -->
-
